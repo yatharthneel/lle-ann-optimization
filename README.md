@@ -47,7 +47,7 @@ lle-ann-optimization/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/lle-ann-optimization.git
+git clone https://github.com/yatharthneel/lle-ann-optimization.git
 cd lle-ann-optimization
 ```
 
